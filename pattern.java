@@ -10,7 +10,10 @@ if(i==1||i==5)
 {
 System.out.print("1");
 }
-else
+//pattern prgm
+  
+  //gousiga 
+  else
 {
 if(j==1||j==5)
 {
