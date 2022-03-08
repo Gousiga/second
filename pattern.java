@@ -16,6 +16,7 @@ if(j==1||j==5)
 {
 System.out.print("1");
 }
+//pattern prgm
 else
 {
 if(i==3&&j==3)
