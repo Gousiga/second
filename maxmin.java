@@ -14,6 +14,7 @@ max=a[i];
 if(a[i]<min){
 min=a[i];
 }}
+  //maxmin using array
 System.out.println("Original Array:  ");
 for(int i=0;i<a.length;i++){
 System.out.println(a[i]);
